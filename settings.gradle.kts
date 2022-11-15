@@ -1,0 +1,1 @@
+rootProject.name = "com.github.migo.ktor-sample"
